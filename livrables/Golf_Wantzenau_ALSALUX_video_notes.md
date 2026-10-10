@@ -18,6 +18,15 @@ Base v2 réaliste, avec Steve et Olivier intégrés dans sept plans (bar sous le
 table du restaurant sous les Iris & Fiesta à deux reprises, Steve seul sous les Mister Magoo, terrasse à l'heure bleue seul puis à deux).
 Usage interne ou présentation en réunion : Olivier doit valider son apparition avant toute diffusion à la maîtrise d'ouvrage.
 
+**Version 4 "Impact", pour la maîtrise d'ouvrage (1080p, 24 i/s, 70 s, sans son) :**
+https://d2ol7oe51mr4n9.cloudfront.net/user_3H3JvBWXkwoI8BdNSqvdXahohdP/aa96731b-2038-4016-86e9-82bdc8a65275.mp4
+
+Base v2 réaliste (sans personnes), enrichie des éléments de la présentation "Impact" d'Olivier :
+- plan de nuit retitré "Une identité qui se voit dès l'arrivée" ;
+- bar : volet de comparaison "Solution simple" (suspensions standard) puis "Premier choix Alsalux · Costanzina", même décor, même angle ;
+- restaurant : même volet "Solution simple" puis "Premier choix Alsalux · Iris & Fiesta" ;
+- plan final "Notre recommandation · Concentrer l'investissement là où il se voit", supplément à chiffrer à périmètre technique identique.
+
 
 ## Sources utilisées
 - `dossier projet de wantzenau_cri_24092026.pdf` (Brunner) : rendus extérieurs, bar et salle de restauration, terrasse.
