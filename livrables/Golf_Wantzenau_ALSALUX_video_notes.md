@@ -5,6 +5,13 @@ https://d2ol7oe51mr4n9.cloudfront.net/user_3H3JvBWXkwoI8BdNSqvdXahohdP/3ab9a621-
 
 La vidéo est aussi dans la bibliothèque Higgsfield du compte (médias importés).
 
+**Version 2 réaliste (1080p, 24 i/s, 65 s, sans son) :**
+https://d2ol7oe51mr4n9.cloudfront.net/user_3H3JvBWXkwoI8BdNSqvdXahohdP/4a6e1e75-357a-44ef-bfb9-3548d3d621b7.mp4
+
+Même déroulé et mêmes titres que la v1, mais chaque plan a d'abord été converti en photographie réaliste
+(mêmes volumes, mobilier Brunner et luminaires conservés), puis animé. Le plan restaurant Brunner passe de 3 à 5 s.
+
+
 ## Sources utilisées
 - `dossier projet de wantzenau_cri_24092026.pdf` (Brunner) : rendus extérieurs, bar et salle de restauration, terrasse.
 - `Golf_Wantzenau_ALSALUX_Muuto_Couleurs - Réparation.pptx` : mises en situation des luminaires (bar, restaurant, terrasse) et textes produits.
