@@ -11,6 +11,13 @@ https://d2ol7oe51mr4n9.cloudfront.net/user_3H3JvBWXkwoI8BdNSqvdXahohdP/4a6e1e75-
 Même déroulé et mêmes titres que la v1, mais chaque plan a d'abord été converti en photographie réaliste
 (mêmes volumes, mobilier Brunner et luminaires conservés), puis animé. Le plan restaurant Brunner passe de 3 à 5 s.
 
+**Version 3 avec Steve et Olivier (1080p, 24 i/s, 74 s, sans son) :**
+https://d2ol7oe51mr4n9.cloudfront.net/user_3H3JvBWXkwoI8BdNSqvdXahohdP/f32cfb8e-c25c-4be4-973a-310abb215eed.mp4
+
+Base v2 réaliste, avec Steve et Olivier intégrés dans sept plans (bar sous les Costanzina à deux reprises, Steve seul au bar,
+table du restaurant sous les Iris & Fiesta à deux reprises, Steve seul sous les Mister Magoo, terrasse à l'heure bleue seul puis à deux).
+Usage interne ou présentation en réunion : Olivier doit valider son apparition avant toute diffusion à la maîtrise d'ouvrage.
+
 
 ## Sources utilisées
 - `dossier projet de wantzenau_cri_24092026.pdf` (Brunner) : rendus extérieurs, bar et salle de restauration, terrasse.
